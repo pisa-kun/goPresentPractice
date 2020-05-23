@@ -59,3 +59,12 @@ https://hoge.org/
 
 > http://go-talks.appspot.com/github.com/<owner>/<project>/<xxx.slide>
 
+- スライドデータはここ
+.link https://github.com/pisa-kun/goPresentPractice/blob/master/hoge.slide
+
+- 公開先
+    - ブランチ名とblobが必要ない
+http://go-talks.appspot.com/github.com/pisa-kun/goPresentPractice/hoge.slide
+
+<owner> : pisa-kun
+<project> : goPresentPractice/hoge.slide
